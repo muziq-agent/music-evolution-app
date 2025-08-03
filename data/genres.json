@@ -1,0 +1,150 @@
+[
+  {
+    "id": "funk",
+    "name": "Funk",
+    "region": "USA",
+    "era": "1960s\u20131970s",
+    "influences": [
+      "soul",
+      "r&b"
+    ],
+    "descendants": [
+      "disco",
+      "g-funk"
+    ],
+    "elements": [
+      "groove-heavy basslines",
+      "syncopated drums"
+    ],
+    "artists": [
+      "James Brown",
+      "Parliament Funkadelic"
+    ],
+    "tracks": [
+      {
+        "title": "Super Bad",
+        "artist": "James Brown",
+        "spotify_url": "https://open.spotify.com/track/2vlXzDWa7YoH9T3ReydK3X"
+      }
+    ]
+  },
+  {
+    "id": "disco",
+    "name": "Disco",
+    "region": "NYC & Europe",
+    "era": "1970s",
+    "influences": [
+      "funk",
+      "soul"
+    ],
+    "descendants": [
+      "house",
+      "boogie"
+    ],
+    "elements": [
+      "four-on-the-floor beats",
+      "orchestral strings"
+    ],
+    "artists": [
+      "Chic",
+      "Donna Summer"
+    ],
+    "tracks": [
+      {
+        "title": "Le Freak",
+        "artist": "Chic",
+        "spotify_url": "https://open.spotify.com/track/4qL9VYPB4XwJKAOq4xn2Mh"
+      }
+    ]
+  },
+  {
+    "id": "trap",
+    "name": "Trap",
+    "region": "Atlanta, USA",
+    "era": "2003\u2013Present",
+    "influences": [
+      "crunk",
+      "southern_hip_hop"
+    ],
+    "descendants": [
+      "drill",
+      "latin_trap"
+    ],
+    "elements": [
+      "808 drums",
+      "triplet hi-hats",
+      "dark synths"
+    ],
+    "artists": [
+      "T.I.",
+      "Gucci Mane",
+      "Young Jeezy"
+    ],
+    "tracks": [
+      {
+        "title": "Lemonade",
+        "artist": "Gucci Mane",
+        "spotify_url": "https://open.spotify.com/track/1lXY618HWkwYKJWBRYR4MK"
+      }
+    ]
+  },
+  {
+    "id": "drill",
+    "name": "Drill",
+    "region": "Chicago, London",
+    "era": "2010s\u2013Present",
+    "influences": [
+      "trap"
+    ],
+    "descendants": [
+      "uk_drill"
+    ],
+    "elements": [
+      "dark aggressive lyrics",
+      "fast hi-hats",
+      "bass-heavy"
+    ],
+    "artists": [
+      "Chief Keef",
+      "Pop Smoke"
+    ],
+    "tracks": [
+      {
+        "title": "Dior",
+        "artist": "Pop Smoke",
+        "spotify_url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
+      }
+    ]
+  },
+  {
+    "id": "afrobeats",
+    "name": "Afrobeats",
+    "region": "Nigeria, Ghana",
+    "era": "2010s\u2013Present",
+    "influences": [
+      "highlife",
+      "hiplife"
+    ],
+    "descendants": [
+      "alte",
+      "amapiano"
+    ],
+    "elements": [
+      "syncopated rhythms",
+      "call and response",
+      "melodic percussion"
+    ],
+    "artists": [
+      "Burna Boy",
+      "Wizkid",
+      "Davido"
+    ],
+    "tracks": [
+      {
+        "title": "Ye (placeholder)",
+        "artist": "Burna Boy",
+        "spotify_url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+      }
+    ]
+  }
+]
