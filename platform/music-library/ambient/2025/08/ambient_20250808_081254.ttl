@@ -1,0 +1,20 @@
+@prefix mo:  <http://purl.org/ontology/mo/> .
+@prefix dc:  <http://purl.org/dc/elements/1.1/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos:<http://www.w3.org/2004/02/skos/core#> .
+@prefix muziq: <http://muziq.local/schema#> .
+
+<http://muziq.local/track/ambient_20250808_081254>
+  a mo:Track ;
+  dc:title "Ambient 20250808_081254" ;
+  dct:created "2025-08" ;
+  muziq:durationSeconds "4" ;
+  mo:genre <http://muziq.local/genre/ambient> ;
+  muziq:source "local-demo" ;
+  muziq:artifactFile "ambient_20250808_081254.wav" .
+
+<http://muziq.local/genre/ambient>
+  a skos:Concept ;
+  skos:prefLabel "Ambient"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset-provisional> ;
+  skos:note "Provisional label; to be aligned to LCGFT and/or AudioSet."@en .

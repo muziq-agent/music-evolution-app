@@ -1,0 +1,15 @@
+@prefix muziq: <http://muziq.local/schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://muziq.local/track/7b3ef35d95a91e72>
+  a muziq:Track ;
+  muziq:style "Ambient" ;
+  muziq:durationSec 3 ;
+  muziq:source "local-demo" ;
+  muziq:artifactFile "test_ambient.wav" .
+
+<http://muziq.local/genre/Ambient>
+  a skos:Concept ;
+  skos:prefLabel "Ambient"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset-provisional> ;
+  skos:note "Provisional label; to be aligned to LCGFT and/or AudioSet."@en .

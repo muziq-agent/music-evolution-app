@@ -1,0 +1,58 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix muziq: <http://muziq.local/ontology#> .
+@prefix audioset: <http://research.google.com/audioset/ontology/> .
+@prefix lcgft: <http://id.loc.gov/authorities/genreForms/> .
+
+<http://muziq.local/genre-scheme/lcgft+audioset>
+  a skos:ConceptScheme ;
+  skos:prefLabel "MuzIQ Genre Scheme (LCGFT + AudioSet seed)"@en ;
+  skos:note "Initial seed ontology for MuzIQ AI classification. Derived from Library of Congress Genre/Form Terms (LCGFT) and Google's AudioSet ontology."@en .
+
+# Classical
+<lcgft:gf2014026680>
+  a skos:Concept ;
+  skos:prefLabel "Classical music"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset> ;
+  skos:exactMatch audioset:Classical_music .
+
+# Jazz
+<lcgft:gf2014027204>
+  a skos:Concept ;
+  skos:prefLabel "Jazz"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset> ;
+  skos:exactMatch audioset:Jazz .
+
+# Rock
+<lcgft:gf2014027163>
+  a skos:Concept ;
+  skos:prefLabel "Rock music"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset> ;
+  skos:exactMatch audioset:Rock_music .
+
+# Electronic
+<lcgft:gf2014026982>
+  a skos:Concept ;
+  skos:prefLabel "Electronic music"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset> ;
+  skos:exactMatch audioset:Electronic_music .
+
+# Folk
+<lcgft:gf2014026985>
+  a skos:Concept ;
+  skos:prefLabel "Folk music"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset> ;
+  skos:exactMatch audioset:Folk_music .
+
+# Hip hop
+<lcgft:gf2014027203>
+  a skos:Concept ;
+  skos:prefLabel "Hip hop music"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset> ;
+  skos:exactMatch audioset:Hip_hop_music .
+
+# Ambient
+<lcgft:gf2014026359>
+  a skos:Concept ;
+  skos:prefLabel "Ambient music"@en ;
+  skos:inScheme <http://muziq.local/genre-scheme/lcgft+audioset> ;
+  skos:exactMatch audioset:Ambient_music .

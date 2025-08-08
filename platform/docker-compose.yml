@@ -1,0 +1,15 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: apps/api/Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+      - muziq_storage:/app/storage
+    environment:
+      - PYTHONUNBUFFERED=1
+
+volumes:
+  muziq_storage:
