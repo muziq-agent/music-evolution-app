@@ -1,0 +1,24 @@
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+error: Your local changes to the following files would be overwritten by merge:
+	.DS_Store
+	platform/auto_push.sh
+Please commit your changes or stash them before you merge.
+Aborting
+platform/push_log.txt already exists, no checkout
+error: could not restore untracked files from stash
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+	modified:   platform/auto_push.sh
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	platform/push_log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+The stash entry is kept in case you need it again.
