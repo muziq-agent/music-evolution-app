@@ -3,8 +3,8 @@
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 "$SCRIPT_DIR/backup_restore.sh" backup
 
-AGENT_ID="ed44ebf56bbc9efb"
-API_KEY="7c2d63491c1e4d3d625e9e99da93bc57"
+AGENT_ID="8283bac8cab0f1e7"
+API_KEY="90d2db125c3a971038da5c6ba10ad9bd"
 
 STYLE="$1"
 DURATION="$2"

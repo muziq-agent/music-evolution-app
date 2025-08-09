@@ -1,12 +1,14 @@
-# MuzIQ Platform — System Command Cheat Sheet
+# System Command Cheat Sheet
 
-This file lists all the key commands for working with the MuzIQ platform.
-
----
-
-## 🔄 Refresh API Keys
-Generates new Agent ID & API Key, updates `generate_track.sh`, and restarts API.
-
+## Refresh API Keys
 ```bash
-refresh_keys.sh
+./platform/refresh_keys.sh
+
+./platform/auto_push.sh
+
+./platform/backup_restore.sh backup
+./platform/backup_restore.sh restore
+
+./platform/self_test.sh
+
 
