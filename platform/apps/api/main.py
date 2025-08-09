@@ -52,12 +52,40 @@ class AgentImport(BaseModel):
     api_key: str
     name: str | None = None
 
-@app.post("/agents")  # create a new agent
-def create_agent(agent: AgentCreate):
+import json
+import os
+import secrets
+
+AGENTS_FILE = "/app/storage/agents.json"
+
+def load_agents():
+    if os.path.exists(AGENTS_FILE):
+        with open(AGENTS_FILE, "r") as f:
+            return json.load(f)
+    return {}
+
+def save_agents(data):
+    os.makedirs(os.path.dirname(AGENTS_FILE), exist_ok=True)
+    with open(AGENTS_FILE, "w") as f:
+        json.dump(data, f, indent=2)
+
+@app.post("/agents")
+def create_agent():
+    # Generate new credentials
     agent_id = secrets.token_hex(8)
-    api_key  = secrets.token_hex(16)
-    AGENTS[agent_id] = {"name": agent.name, "api_key": api_key}
-    save_agents()
+    api_key = secrets.token_hex(16)
+
+    # Load, update, and save
+    agents = load_agents()
+    agents[agent_id] = {"api_key": api_key}
+    save_agents(agents)
+
+    print("\n========================================")
+    print("MuzIQ AGENT CREATED & SAVED")
+    print(f"agent_id = {agent_id}")
+    print(f"api_key  = {api_key}")
+    print("========================================\n")
+
     return {"agent_id": agent_id, "api_key": api_key}
 
 @app.post("/agents/import")  # import existing credentials
