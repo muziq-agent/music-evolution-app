@@ -25,3 +25,20 @@ This repository is **private and confidential**. Unauthorized distribution or du
 
 ## Operations Manual
 See [docs/OPERATIONS.md](docs/OPERATIONS.md) for environments, branching, and deploys.
+
+---
+
+## 🚀 Releasing
+
+We use a one-command release script that tags and publishes directly from the terminal.
+
+Example:
+\`\`\`bash
+./_release.sh v0.3 "Next Demo" "Optional description"
+\`\`\`
+
+This will:
+1. Create the git tag (e.g., v0.3).
+2. Push it to GitHub.
+3. Create/update the GitHub Release with notes.
+
