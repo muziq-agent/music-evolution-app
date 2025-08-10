@@ -1,0 +1,28 @@
+name: Audit Streaming References
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run streaming references audit
+        run: |
+          bash audit_streaming_refs.sh
+
+      - name: Commit updated audit (if any changes)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add AUDIT_streaming_refs.md README.md || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update streaming audit [skip ci]"
+            git push
+          fi
