@@ -9,7 +9,7 @@ It uses graph-based knowledge representation and interactive UI to educate users
 
 ## Current Status
 - AI-powered React front-end (MuzIQApp)
-- Interactive music ontology with AI-generated and unrestricted source tracks
+- Interactive music ontology with AI-generated and unrestricted sources tracks
 - Early discussions on integrating blockchain and tokenization
 - Vision and roadmap are private for now
 

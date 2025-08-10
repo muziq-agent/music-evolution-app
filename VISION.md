@@ -12,7 +12,7 @@ To build the world’s first fully autonomous AI-powered platform that maps the 
 
 ## 🔧 Technology Stack (High-Level)
 - **Frontend**: React + Tailwind + React Flow (interactive music evolution UI)
-- **Backend / Data**: Graph database (Neo4j or TigerGraph), MusicBrainz, Spotify API
+- **Backend / Data**: Graph database (Neo4j or TigerGraph), MusicBrainz, third‑party streaming platforms API
 - **AI Core**: Graph Neural Networks (GNNs), Transformers, Audio Embedding Models
 - **Agents**: Autonomous modules for curation, generation, education, and IP protection
 - **Blockchain**: 
