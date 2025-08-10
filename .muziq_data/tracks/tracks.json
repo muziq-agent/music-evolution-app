@@ -1,0 +1,2603 @@
+[
+  {
+    "id": 1,
+    "title": "Track 001",
+    "artist": "Creator_001",
+    "year": 2018,
+    "bpm": 91,
+    "key": "D",
+    "vibes": [
+      "ambient",
+      "chill"
+    ],
+    "influences": [],
+    "ai_description": "This is a long-form AI-style description for showcase track 001, capturing evolving motifs, multi-layer textures, and cross-referenced influences in a GNN-friendly format.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_003": 30,
+      "Creator_019": 20
+    },
+    "anchoring": {
+      "block": 155302,
+      "tx": "6b86b273ff34fce1",
+      "time": "2025-08-10T21:39:36.942866Z"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Track 002",
+    "artist": "Creator_001",
+    "year": 2012,
+    "bpm": 87,
+    "key": "D",
+    "vibes": [
+      "jazzy",
+      "uplifting"
+    ],
+    "influences": [],
+    "ai_description": "This is a long-form AI-style description for showcase track 002, capturing evolving motifs, multi-layer textures, and cross-referenced influences in a GNN-friendly format.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_014": 30,
+      "Creator_008": 20
+    },
+    "anchoring": {
+      "block": 158878,
+      "tx": "d4735e3a265e16ee",
+      "time": "2025-08-10T21:39:36.942926Z"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Track 003",
+    "artist": "Creator_006",
+    "year": 2023,
+    "bpm": 103,
+    "key": "E",
+    "vibes": [
+      "uplifting",
+      "dark"
+    ],
+    "influences": [
+      1,
+      98
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_004": 50,
+      "Creator_003": 30,
+      "Creator_013": 20
+    },
+    "anchoring": {
+      "block": 112676,
+      "tx": "4e07408562bedb8b",
+      "time": "2025-08-10T21:39:36.942960Z"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Track 004",
+    "artist": "Creator_009",
+    "year": 2011,
+    "bpm": 153,
+    "key": "F",
+    "vibes": [
+      "epic",
+      "chill"
+    ],
+    "influences": [
+      45,
+      78
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_010": 30,
+      "Creator_020": 20
+    },
+    "anchoring": {
+      "block": 147400,
+      "tx": "4b227777d4dd1fc6",
+      "time": "2025-08-10T21:39:36.942987Z"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Track 005",
+    "artist": "Creator_003",
+    "year": 2011,
+    "bpm": 144,
+    "key": "Dm",
+    "vibes": [
+      "chill",
+      "uplifting"
+    ],
+    "influences": [
+      91
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_004": 50,
+      "Creator_013": 30,
+      "Creator_009": 20
+    },
+    "anchoring": {
+      "block": 159429,
+      "tx": "ef2d127de37b942b",
+      "time": "2025-08-10T21:39:36.943018Z"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Track 006",
+    "artist": "Creator_012",
+    "year": 2016,
+    "bpm": 145,
+    "key": "E",
+    "vibes": [
+      "jazzy",
+      "uplifting"
+    ],
+    "influences": [
+      21,
+      48
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_008": 30,
+      "Creator_006": 20
+    },
+    "anchoring": {
+      "block": 160589,
+      "tx": "e7f6c011776e8db7",
+      "time": "2025-08-10T21:39:36.943044Z"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Track 007",
+    "artist": "Creator_018",
+    "year": 2017,
+    "bpm": 147,
+    "key": "E",
+    "vibes": [
+      "uplifting",
+      "chill"
+    ],
+    "influences": [
+      35,
+      82,
+      89
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_011": 50,
+      "Creator_013": 30,
+      "Creator_009": 20
+    },
+    "anchoring": {
+      "block": 108675,
+      "tx": "7902699be42c8a8e",
+      "time": "2025-08-10T21:39:36.943068Z"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Track 008",
+    "artist": "Creator_011",
+    "year": 2016,
+    "bpm": 143,
+    "key": "Fm",
+    "vibes": [
+      "ambient",
+      "epic"
+    ],
+    "influences": [
+      73
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_005": 20,
+      "Creator_009": 30
+    },
+    "anchoring": {
+      "block": 132325,
+      "tx": "2c624232cdd22177",
+      "time": "2025-08-10T21:39:36.943083Z"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Track 009",
+    "artist": "Creator_014",
+    "year": 2022,
+    "bpm": 106,
+    "key": "D",
+    "vibes": [
+      "jazzy",
+      "epic"
+    ],
+    "influences": [
+      96,
+      75
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_003": 50,
+      "Creator_002": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 120033,
+      "tx": "19581e27de7ced00",
+      "time": "2025-08-10T21:39:36.943098Z"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Track 010",
+    "artist": "Creator_014",
+    "year": 2012,
+    "bpm": 109,
+    "key": "Fm",
+    "vibes": [
+      "jazzy",
+      "dark"
+    ],
+    "influences": [
+      88
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_001": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 189353,
+      "tx": "4a44dc15364204a8",
+      "time": "2025-08-10T21:39:36.943112Z"
+    }
+  },
+  {
+    "id": 11,
+    "title": "Track 011",
+    "artist": "Creator_011",
+    "year": 2013,
+    "bpm": 97,
+    "key": "F",
+    "vibes": [
+      "epic",
+      "chill"
+    ],
+    "influences": [
+      99,
+      83
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_009": 50,
+      "Creator_017": 30,
+      "Creator_006": 20
+    },
+    "anchoring": {
+      "block": 166542,
+      "tx": "4fc82b26aecb47d2",
+      "time": "2025-08-10T21:39:36.943130Z"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Track 012",
+    "artist": "Creator_010",
+    "year": 2016,
+    "bpm": 79,
+    "key": "E",
+    "vibes": [
+      "jazzy",
+      "ambient"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_001": 50,
+      "Creator_020": 30,
+      "Creator_011": 20
+    },
+    "anchoring": {
+      "block": 164042,
+      "tx": "6b51d431df5d7f14",
+      "time": "2025-08-10T21:39:36.943145Z"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Track 013",
+    "artist": "Creator_004",
+    "year": 2021,
+    "bpm": 172,
+    "key": "Bm",
+    "vibes": [
+      "uplifting",
+      "chill"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 50,
+      "Creator_019": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 111226,
+      "tx": "3fdba35f04dc8c46",
+      "time": "2025-08-10T21:39:36.943159Z"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Track 014",
+    "artist": "Creator_005",
+    "year": 2014,
+    "bpm": 144,
+    "key": "F",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [
+      9,
+      98,
+      69
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_020": 50,
+      "Creator_014": 30,
+      "Creator_007": 20
+    },
+    "anchoring": {
+      "block": 170686,
+      "tx": "8527a891e2241369",
+      "time": "2025-08-10T21:39:36.943176Z"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Track 015",
+    "artist": "Creator_010",
+    "year": 2022,
+    "bpm": 145,
+    "key": "Am",
+    "vibes": [
+      "epic",
+      "jazzy"
+    ],
+    "influences": [
+      92
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_004": 30,
+      "Creator_008": 20
+    },
+    "anchoring": {
+      "block": 129451,
+      "tx": "e629fa6598d73276",
+      "time": "2025-08-10T21:39:36.943190Z"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Track 016",
+    "artist": "Creator_011",
+    "year": 2010,
+    "bpm": 135,
+    "key": "G",
+    "vibes": [
+      "jazzy",
+      "uplifting"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_001": 50,
+      "Creator_003": 30,
+      "Creator_002": 20
+    },
+    "anchoring": {
+      "block": 130007,
+      "tx": "b17ef6d19c7a5b1e",
+      "time": "2025-08-10T21:39:36.943203Z"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Track 017",
+    "artist": "Creator_002",
+    "year": 2020,
+    "bpm": 69,
+    "key": "G",
+    "vibes": [
+      "dark",
+      "epic"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_007": 50,
+      "Creator_018": 30,
+      "Creator_005": 20
+    },
+    "anchoring": {
+      "block": 194811,
+      "tx": "4523540f1504cd17",
+      "time": "2025-08-10T21:39:36.943216Z"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Track 018",
+    "artist": "Creator_007",
+    "year": 2013,
+    "bpm": 72,
+    "key": "Am",
+    "vibes": [
+      "dark",
+      "epic"
+    ],
+    "influences": [
+      32,
+      61,
+      53
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_015": 30,
+      "Creator_002": 20
+    },
+    "anchoring": {
+      "block": 188259,
+      "tx": "4ec9599fc203d176",
+      "time": "2025-08-10T21:39:36.943234Z"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Track 019",
+    "artist": "Creator_002",
+    "year": 2022,
+    "bpm": 153,
+    "key": "E",
+    "vibes": [
+      "uplifting",
+      "ambient"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_007": 50,
+      "Creator_018": 30,
+      "Creator_015": 20
+    },
+    "anchoring": {
+      "block": 118373,
+      "tx": "9400f1b21cb527d7",
+      "time": "2025-08-10T21:39:36.943247Z"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Track 020",
+    "artist": "Creator_008",
+    "year": 2012,
+    "bpm": 116,
+    "key": "B",
+    "vibes": [
+      "chill",
+      "jazzy"
+    ],
+    "influences": [
+      24,
+      36,
+      60
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_001": 50,
+      "Creator_003": 30,
+      "Creator_008": 20
+    },
+    "anchoring": {
+      "block": 121798,
+      "tx": "f5ca38f748a1d6ea",
+      "time": "2025-08-10T21:39:36.943261Z"
+    }
+  },
+  {
+    "id": 21,
+    "title": "Track 021",
+    "artist": "Creator_013",
+    "year": 2011,
+    "bpm": 81,
+    "key": "F",
+    "vibes": [
+      "epic",
+      "dark"
+    ],
+    "influences": [
+      63,
+      62,
+      28
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_010": 30,
+      "Creator_014": 20
+    },
+    "anchoring": {
+      "block": 191303,
+      "tx": "6f4b6612125fb3a0",
+      "time": "2025-08-10T21:39:36.943275Z"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Track 022",
+    "artist": "Creator_007",
+    "year": 2011,
+    "bpm": 134,
+    "key": "A",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [
+      20,
+      25,
+      38
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_002": 30,
+      "Creator_019": 20
+    },
+    "anchoring": {
+      "block": 162493,
+      "tx": "785f3ec7eb32f30b",
+      "time": "2025-08-10T21:39:36.943289Z"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Track 023",
+    "artist": "Creator_017",
+    "year": 2012,
+    "bpm": 168,
+    "key": "D",
+    "vibes": [
+      "jazzy",
+      "chill"
+    ],
+    "influences": [
+      8
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 50,
+      "Creator_013": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 174668,
+      "tx": "535fa30d7e25dd8a",
+      "time": "2025-08-10T21:39:36.943305Z"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Track 024",
+    "artist": "Creator_020",
+    "year": 2011,
+    "bpm": 139,
+    "key": "Cm",
+    "vibes": [
+      "ambient",
+      "jazzy"
+    ],
+    "influences": [
+      75
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_019": 50,
+      "Creator_017": 30,
+      "Creator_011": 20
+    },
+    "anchoring": {
+      "block": 134179,
+      "tx": "c2356069e9d1e79c",
+      "time": "2025-08-10T21:39:36.943321Z"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Track 025",
+    "artist": "Creator_011",
+    "year": 2017,
+    "bpm": 93,
+    "key": "F",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [
+      86
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_011": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 101220,
+      "tx": "b7a56873cd771f2c",
+      "time": "2025-08-10T21:39:36.943334Z"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Track 026",
+    "artist": "Creator_003",
+    "year": 2016,
+    "bpm": 124,
+    "key": "E",
+    "vibes": [
+      "dark",
+      "chill"
+    ],
+    "influences": [
+      80,
+      73,
+      13
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 50,
+      "Creator_012": 30,
+      "Creator_010": 20
+    },
+    "anchoring": {
+      "block": 120676,
+      "tx": "5f9c4ab08cac7457",
+      "time": "2025-08-10T21:39:36.943348Z"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Track 027",
+    "artist": "Creator_020",
+    "year": 2010,
+    "bpm": 145,
+    "key": "Bm",
+    "vibes": [
+      "ambient",
+      "chill"
+    ],
+    "influences": [
+      70,
+      91,
+      39
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_005": 50,
+      "Creator_009": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 114029,
+      "tx": "670671cd97404156",
+      "time": "2025-08-10T21:39:36.943362Z"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Track 028",
+    "artist": "Creator_010",
+    "year": 2016,
+    "bpm": 151,
+    "key": "E",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [
+      35
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_017": 50,
+      "Creator_016": 30,
+      "Creator_009": 20
+    },
+    "anchoring": {
+      "block": 106658,
+      "tx": "59e19706d51d39f6",
+      "time": "2025-08-10T21:39:36.943376Z"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Track 029",
+    "artist": "Creator_014",
+    "year": 2018,
+    "bpm": 65,
+    "key": "Cm",
+    "vibes": [
+      "uplifting",
+      "dark"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_006": 50,
+      "Creator_015": 30,
+      "Creator_018": 20
+    },
+    "anchoring": {
+      "block": 192493,
+      "tx": "35135aaa6cc23891",
+      "time": "2025-08-10T21:39:36.943388Z"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Track 030",
+    "artist": "Creator_003",
+    "year": 2014,
+    "bpm": 129,
+    "key": "Cm",
+    "vibes": [
+      "jazzy",
+      "ambient"
+    ],
+    "influences": [
+      72,
+      2,
+      15
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_005": 20,
+      "Creator_014": 30
+    },
+    "anchoring": {
+      "block": 105482,
+      "tx": "624b60c58c9d8bfb",
+      "time": "2025-08-10T21:39:36.943404Z"
+    }
+  },
+  {
+    "id": 31,
+    "title": "Track 031",
+    "artist": "Creator_012",
+    "year": 2016,
+    "bpm": 147,
+    "key": "D",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [
+      47,
+      6
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_020": 30,
+      "Creator_005": 20
+    },
+    "anchoring": {
+      "block": 131029,
+      "tx": "eb1e33e8a81b697b",
+      "time": "2025-08-10T21:39:36.943419Z"
+    }
+  },
+  {
+    "id": 32,
+    "title": "Track 032",
+    "artist": "Creator_014",
+    "year": 2010,
+    "bpm": 82,
+    "key": "Am",
+    "vibes": [
+      "epic",
+      "uplifting"
+    ],
+    "influences": [
+      23
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_009": 50,
+      "Creator_006": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 150140,
+      "tx": "e29c9c180c6279b0",
+      "time": "2025-08-10T21:39:36.943432Z"
+    }
+  },
+  {
+    "id": 33,
+    "title": "Track 033",
+    "artist": "Creator_016",
+    "year": 2017,
+    "bpm": 85,
+    "key": "Bm",
+    "vibes": [
+      "dark",
+      "ambient"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 30,
+      "Creator_001": 20
+    },
+    "anchoring": {
+      "block": 186511,
+      "tx": "c6f3ac57944a5314",
+      "time": "2025-08-10T21:39:36.943447Z"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Track 034",
+    "artist": "Creator_011",
+    "year": 2018,
+    "bpm": 170,
+    "key": "Cm",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [
+      52
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_013": 50,
+      "Creator_018": 30,
+      "Creator_011": 20
+    },
+    "anchoring": {
+      "block": 103617,
+      "tx": "86e5014965866131",
+      "time": "2025-08-10T21:39:36.943478Z"
+    }
+  },
+  {
+    "id": 35,
+    "title": "Track 035",
+    "artist": "Creator_009",
+    "year": 2015,
+    "bpm": 134,
+    "key": "E",
+    "vibes": [
+      "chill",
+      "jazzy"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_012": 30,
+      "Creator_011": 20
+    },
+    "anchoring": {
+      "block": 157199,
+      "tx": "9f14025af0065b30",
+      "time": "2025-08-10T21:39:36.943492Z"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Track 036",
+    "artist": "Creator_013",
+    "year": 2016,
+    "bpm": 92,
+    "key": "Cm",
+    "vibes": [
+      "chill",
+      "jazzy"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_007": 30,
+      "Creator_012": 20
+    },
+    "anchoring": {
+      "block": 156531,
+      "tx": "76a50887d8f1c2e9",
+      "time": "2025-08-10T21:39:36.943508Z"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Track 037",
+    "artist": "Creator_011",
+    "year": 2020,
+    "bpm": 144,
+    "key": "B",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_017": 50,
+      "Creator_010": 30,
+      "Creator_014": 20
+    },
+    "anchoring": {
+      "block": 142753,
+      "tx": "7a61b53701befdae",
+      "time": "2025-08-10T21:39:36.943521Z"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Track 038",
+    "artist": "Creator_005",
+    "year": 2016,
+    "bpm": 113,
+    "key": "Am",
+    "vibes": [
+      "ambient",
+      "uplifting"
+    ],
+    "influences": [
+      90,
+      71
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_020": 50,
+      "Creator_019": 30,
+      "Creator_010": 20
+    },
+    "anchoring": {
+      "block": 153225,
+      "tx": "aea92132c4cbeb26",
+      "time": "2025-08-10T21:39:36.943537Z"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Track 039",
+    "artist": "Creator_010",
+    "year": 2019,
+    "bpm": 86,
+    "key": "Fm",
+    "vibes": [
+      "epic",
+      "ambient"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_007": 30,
+      "Creator_017": 20
+    },
+    "anchoring": {
+      "block": 162021,
+      "tx": "0b918943df0962bc",
+      "time": "2025-08-10T21:39:36.943551Z"
+    }
+  },
+  {
+    "id": 40,
+    "title": "Track 040",
+    "artist": "Creator_003",
+    "year": 2019,
+    "bpm": 125,
+    "key": "Am",
+    "vibes": [
+      "chill",
+      "uplifting"
+    ],
+    "influences": [
+      85
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_010": 50,
+      "Creator_008": 30,
+      "Creator_007": 20
+    },
+    "anchoring": {
+      "block": 119313,
+      "tx": "d59eced1ded07f84",
+      "time": "2025-08-10T21:39:36.943567Z"
+    }
+  },
+  {
+    "id": 41,
+    "title": "Track 041",
+    "artist": "Creator_002",
+    "year": 2017,
+    "bpm": 120,
+    "key": "G",
+    "vibes": [
+      "epic",
+      "ambient"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_019": 50,
+      "Creator_007": 30,
+      "Creator_013": 20
+    },
+    "anchoring": {
+      "block": 164799,
+      "tx": "3d914f9348c9cc0f",
+      "time": "2025-08-10T21:39:36.943582Z"
+    }
+  },
+  {
+    "id": 42,
+    "title": "Track 042",
+    "artist": "Creator_001",
+    "year": 2013,
+    "bpm": 159,
+    "key": "F",
+    "vibes": [
+      "uplifting",
+      "jazzy"
+    ],
+    "influences": [
+      32,
+      19,
+      84
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_002": 30,
+      "Creator_018": 20
+    },
+    "anchoring": {
+      "block": 132662,
+      "tx": "73475cb40a568e8d",
+      "time": "2025-08-10T21:39:36.943596Z"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Track 043",
+    "artist": "Creator_015",
+    "year": 2014,
+    "bpm": 162,
+    "key": "Fm",
+    "vibes": [
+      "epic",
+      "jazzy"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_017": 50,
+      "Creator_014": 30,
+      "Creator_018": 20
+    },
+    "anchoring": {
+      "block": 158446,
+      "tx": "44cb730c420480a0",
+      "time": "2025-08-10T21:39:36.943613Z"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Track 044",
+    "artist": "Creator_016",
+    "year": 2024,
+    "bpm": 93,
+    "key": "B",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [
+      96
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_017": 50,
+      "Creator_016": 30,
+      "Creator_008": 20
+    },
+    "anchoring": {
+      "block": 135992,
+      "tx": "71ee45a3c0db9a98",
+      "time": "2025-08-10T21:39:36.943626Z"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Track 045",
+    "artist": "Creator_008",
+    "year": 2018,
+    "bpm": 102,
+    "key": "E",
+    "vibes": [
+      "uplifting",
+      "ambient"
+    ],
+    "influences": [
+      10,
+      92,
+      37
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 50,
+      "Creator_013": 30,
+      "Creator_005": 20
+    },
+    "anchoring": {
+      "block": 192591,
+      "tx": "811786ad1ae74adf",
+      "time": "2025-08-10T21:39:36.943640Z"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Track 046",
+    "artist": "Creator_014",
+    "year": 2023,
+    "bpm": 102,
+    "key": "Gm",
+    "vibes": [
+      "epic",
+      "chill"
+    ],
+    "influences": [
+      9
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_007": 50,
+      "Creator_014": 30,
+      "Creator_013": 20
+    },
+    "anchoring": {
+      "block": 176556,
+      "tx": "25fc0e7096fc6537",
+      "time": "2025-08-10T21:39:36.943654Z"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Track 047",
+    "artist": "Creator_019",
+    "year": 2022,
+    "bpm": 121,
+    "key": "Cm",
+    "vibes": [
+      "dark",
+      "epic"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_018": 20
+    },
+    "anchoring": {
+      "block": 179069,
+      "tx": "31489056e0916d59",
+      "time": "2025-08-10T21:39:36.943668Z"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Track 048",
+    "artist": "Creator_008",
+    "year": 2018,
+    "bpm": 115,
+    "key": "F",
+    "vibes": [
+      "epic",
+      "dark"
+    ],
+    "influences": [
+      63
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_013": 50,
+      "Creator_006": 30,
+      "Creator_015": 20
+    },
+    "anchoring": {
+      "block": 116728,
+      "tx": "98010bd9270f9b10",
+      "time": "2025-08-10T21:39:36.943682Z"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Track 049",
+    "artist": "Creator_013",
+    "year": 2010,
+    "bpm": 70,
+    "key": "Am",
+    "vibes": [
+      "uplifting",
+      "epic"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_006": 50,
+      "Creator_002": 30,
+      "Creator_009": 20
+    },
+    "anchoring": {
+      "block": 149689,
+      "tx": "0e17daca5f3e175f",
+      "time": "2025-08-10T21:39:36.943695Z"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Track 050",
+    "artist": "Creator_011",
+    "year": 2020,
+    "bpm": 157,
+    "key": "Fm",
+    "vibes": [
+      "epic",
+      "dark"
+    ],
+    "influences": [
+      28,
+      59
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_003": 50,
+      "Creator_016": 30,
+      "Creator_001": 20
+    },
+    "anchoring": {
+      "block": 198176,
+      "tx": "1a6562590ef19d10",
+      "time": "2025-08-10T21:39:36.943708Z"
+    }
+  },
+  {
+    "id": 51,
+    "title": "Track 051",
+    "artist": "Creator_012",
+    "year": 2017,
+    "bpm": 143,
+    "key": "C",
+    "vibes": [
+      "chill",
+      "uplifting"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_007": 50,
+      "Creator_001": 30,
+      "Creator_020": 20
+    },
+    "anchoring": {
+      "block": 119973,
+      "tx": "031b4af5197ec30a",
+      "time": "2025-08-10T21:39:36.943721Z"
+    }
+  },
+  {
+    "id": 52,
+    "title": "Track 052",
+    "artist": "Creator_016",
+    "year": 2013,
+    "bpm": 132,
+    "key": "Dm",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [
+      17
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_012": 50,
+      "Creator_006": 30,
+      "Creator_020": 20
+    },
+    "anchoring": {
+      "block": 179593,
+      "tx": "41cfc0d1f2d127b0",
+      "time": "2025-08-10T21:39:36.943734Z"
+    }
+  },
+  {
+    "id": 53,
+    "title": "Track 053",
+    "artist": "Creator_006",
+    "year": 2019,
+    "bpm": 73,
+    "key": "G",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_013": 30,
+      "Creator_007": 20
+    },
+    "anchoring": {
+      "block": 109961,
+      "tx": "2858dcd1057d3eae",
+      "time": "2025-08-10T21:39:36.943751Z"
+    }
+  },
+  {
+    "id": 54,
+    "title": "Track 054",
+    "artist": "Creator_010",
+    "year": 2013,
+    "bpm": 161,
+    "key": "G",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [
+      14
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_012": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 166317,
+      "tx": "2fca346db6561871",
+      "time": "2025-08-10T21:39:36.943764Z"
+    }
+  },
+  {
+    "id": 55,
+    "title": "Track 055",
+    "artist": "Creator_016",
+    "year": 2013,
+    "bpm": 115,
+    "key": "Em",
+    "vibes": [
+      "ambient",
+      "uplifting"
+    ],
+    "influences": [
+      2,
+      54
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_006": 30,
+      "Creator_017": 20
+    },
+    "anchoring": {
+      "block": 185256,
+      "tx": "02d20bbd7e394ad5",
+      "time": "2025-08-10T21:39:36.943778Z"
+    }
+  },
+  {
+    "id": 56,
+    "title": "Track 056",
+    "artist": "Creator_016",
+    "year": 2024,
+    "bpm": 115,
+    "key": "Bm",
+    "vibes": [
+      "dark",
+      "uplifting"
+    ],
+    "influences": [
+      79,
+      69
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_003": 50,
+      "Creator_009": 30,
+      "Creator_015": 20
+    },
+    "anchoring": {
+      "block": 131963,
+      "tx": "7688b6ef52555962",
+      "time": "2025-08-10T21:39:36.943793Z"
+    }
+  },
+  {
+    "id": 57,
+    "title": "Track 057",
+    "artist": "Creator_013",
+    "year": 2020,
+    "bpm": 63,
+    "key": "Fm",
+    "vibes": [
+      "uplifting",
+      "epic"
+    ],
+    "influences": [
+      73,
+      79,
+      86
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_007": 50,
+      "Creator_012": 30,
+      "Creator_009": 20
+    },
+    "anchoring": {
+      "block": 144608,
+      "tx": "c837649cce43f272",
+      "time": "2025-08-10T21:39:36.943807Z"
+    }
+  },
+  {
+    "id": 58,
+    "title": "Track 058",
+    "artist": "Creator_009",
+    "year": 2010,
+    "bpm": 126,
+    "key": "D",
+    "vibes": [
+      "uplifting",
+      "epic"
+    ],
+    "influences": [
+      77,
+      90
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_016": 50,
+      "Creator_018": 30,
+      "Creator_008": 20
+    },
+    "anchoring": {
+      "block": 190519,
+      "tx": "6208ef0f7750c111",
+      "time": "2025-08-10T21:39:36.943820Z"
+    }
+  },
+  {
+    "id": 59,
+    "title": "Track 059",
+    "artist": "Creator_015",
+    "year": 2010,
+    "bpm": 71,
+    "key": "E",
+    "vibes": [
+      "epic",
+      "uplifting"
+    ],
+    "influences": [
+      83,
+      92,
+      63
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_010": 50,
+      "Creator_019": 30,
+      "Creator_012": 20
+    },
+    "anchoring": {
+      "block": 162031,
+      "tx": "3e1e967e9b793e90",
+      "time": "2025-08-10T21:39:36.943836Z"
+    }
+  },
+  {
+    "id": 60,
+    "title": "Track 060",
+    "artist": "Creator_018",
+    "year": 2020,
+    "bpm": 105,
+    "key": "Am",
+    "vibes": [
+      "dark",
+      "ambient"
+    ],
+    "influences": [
+      55,
+      96
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_009": 50,
+      "Creator_008": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 194540,
+      "tx": "39fa9ec190eee7b6",
+      "time": "2025-08-10T21:39:36.943849Z"
+    }
+  },
+  {
+    "id": 61,
+    "title": "Track 061",
+    "artist": "Creator_004",
+    "year": 2015,
+    "bpm": 84,
+    "key": "Dm",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [
+      41
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_017": 50,
+      "Creator_020": 30,
+      "Creator_010": 20
+    },
+    "anchoring": {
+      "block": 113176,
+      "tx": "d029fa3a95e174a1",
+      "time": "2025-08-10T21:39:36.943864Z"
+    }
+  },
+  {
+    "id": 62,
+    "title": "Track 062",
+    "artist": "Creator_008",
+    "year": 2021,
+    "bpm": 82,
+    "key": "E",
+    "vibes": [
+      "ambient",
+      "jazzy"
+    ],
+    "influences": [
+      38
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_005": 50,
+      "Creator_009": 30,
+      "Creator_002": 20
+    },
+    "anchoring": {
+      "block": 107146,
+      "tx": "81b8a03f97e8787c",
+      "time": "2025-08-10T21:39:36.943876Z"
+    }
+  },
+  {
+    "id": 63,
+    "title": "Track 063",
+    "artist": "Creator_016",
+    "year": 2013,
+    "bpm": 171,
+    "key": "Cm",
+    "vibes": [
+      "epic",
+      "ambient"
+    ],
+    "influences": [
+      90,
+      17
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_011": 30,
+      "Creator_006": 20
+    },
+    "anchoring": {
+      "block": 106734,
+      "tx": "da4ea2a5506f2693",
+      "time": "2025-08-10T21:39:36.943892Z"
+    }
+  },
+  {
+    "id": 64,
+    "title": "Track 064",
+    "artist": "Creator_003",
+    "year": 2022,
+    "bpm": 122,
+    "key": "C",
+    "vibes": [
+      "uplifting",
+      "ambient"
+    ],
+    "influences": [
+      62,
+      15
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_019": 50,
+      "Creator_010": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 132530,
+      "tx": "a68b412c4282555f",
+      "time": "2025-08-10T21:39:36.943906Z"
+    }
+  },
+  {
+    "id": 65,
+    "title": "Track 065",
+    "artist": "Creator_018",
+    "year": 2023,
+    "bpm": 137,
+    "key": "G",
+    "vibes": [
+      "jazzy",
+      "epic"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 30,
+      "Creator_010": 20
+    },
+    "anchoring": {
+      "block": 177139,
+      "tx": "108c995b953c8a35",
+      "time": "2025-08-10T21:39:36.943921Z"
+    }
+  },
+  {
+    "id": 66,
+    "title": "Track 066",
+    "artist": "Creator_002",
+    "year": 2013,
+    "bpm": 157,
+    "key": "D",
+    "vibes": [
+      "dark",
+      "chill"
+    ],
+    "influences": [
+      40,
+      73,
+      80
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_006": 20,
+      "Creator_008": 30
+    },
+    "anchoring": {
+      "block": 172350,
+      "tx": "3ada92f28b4ceda3",
+      "time": "2025-08-10T21:39:36.943938Z"
+    }
+  },
+  {
+    "id": 67,
+    "title": "Track 067",
+    "artist": "Creator_006",
+    "year": 2010,
+    "bpm": 112,
+    "key": "Fm",
+    "vibes": [
+      "dark",
+      "chill"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 50,
+      "Creator_010": 20
+    },
+    "anchoring": {
+      "block": 192141,
+      "tx": "49d180ecf5613281",
+      "time": "2025-08-10T21:39:36.943951Z"
+    }
+  },
+  {
+    "id": 68,
+    "title": "Track 068",
+    "artist": "Creator_009",
+    "year": 2016,
+    "bpm": 114,
+    "key": "C",
+    "vibes": [
+      "ambient",
+      "uplifting"
+    ],
+    "influences": [
+      10,
+      88,
+      30
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_009": 50,
+      "Creator_005": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 107816,
+      "tx": "a21855da08cb102d",
+      "time": "2025-08-10T21:39:36.943965Z"
+    }
+  },
+  {
+    "id": 69,
+    "title": "Track 069",
+    "artist": "Creator_020",
+    "year": 2019,
+    "bpm": 116,
+    "key": "Cm",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [
+      40
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_013": 50,
+      "Creator_009": 30,
+      "Creator_017": 20
+    },
+    "anchoring": {
+      "block": 170776,
+      "tx": "c75cb66ae28d8ebc",
+      "time": "2025-08-10T21:39:36.943978Z"
+    }
+  },
+  {
+    "id": 70,
+    "title": "Track 070",
+    "artist": "Creator_002",
+    "year": 2023,
+    "bpm": 154,
+    "key": "Em",
+    "vibes": [
+      "chill",
+      "ambient"
+    ],
+    "influences": [
+      57,
+      11,
+      77
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 50,
+      "Creator_019": 20
+    },
+    "anchoring": {
+      "block": 102719,
+      "tx": "ff5a1ae012afa5d4",
+      "time": "2025-08-10T21:39:36.943992Z"
+    }
+  },
+  {
+    "id": 71,
+    "title": "Track 071",
+    "artist": "Creator_006",
+    "year": 2025,
+    "bpm": 126,
+    "key": "Am",
+    "vibes": [
+      "dark",
+      "uplifting"
+    ],
+    "influences": [
+      74,
+      6
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_019": 50,
+      "Creator_014": 30,
+      "Creator_016": 20
+    },
+    "anchoring": {
+      "block": 111959,
+      "tx": "7f2253d7e228b22a",
+      "time": "2025-08-10T21:39:36.944008Z"
+    }
+  },
+  {
+    "id": 72,
+    "title": "Track 072",
+    "artist": "Creator_011",
+    "year": 2013,
+    "bpm": 169,
+    "key": "Dm",
+    "vibes": [
+      "epic",
+      "ambient"
+    ],
+    "influences": [
+      45,
+      53,
+      43
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_010": 50,
+      "Creator_013": 30,
+      "Creator_018": 20
+    },
+    "anchoring": {
+      "block": 104809,
+      "tx": "8722616204217edd",
+      "time": "2025-08-10T21:39:36.944023Z"
+    }
+  },
+  {
+    "id": 73,
+    "title": "Track 073",
+    "artist": "Creator_011",
+    "year": 2013,
+    "bpm": 158,
+    "key": "F",
+    "vibes": [
+      "ambient",
+      "jazzy"
+    ],
+    "influences": [
+      12,
+      41,
+      33
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_014": 30,
+      "Creator_002": 20
+    },
+    "anchoring": {
+      "block": 124586,
+      "tx": "96061e92f58e4bdc",
+      "time": "2025-08-10T21:39:36.944038Z"
+    }
+  },
+  {
+    "id": 74,
+    "title": "Track 074",
+    "artist": "Creator_016",
+    "year": 2024,
+    "bpm": 157,
+    "key": "C",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [
+      80,
+      97
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_005": 50,
+      "Creator_010": 30,
+      "Creator_015": 20
+    },
+    "anchoring": {
+      "block": 191521,
+      "tx": "eb624dbe56eb6620",
+      "time": "2025-08-10T21:39:36.944051Z"
+    }
+  },
+  {
+    "id": 75,
+    "title": "Track 075",
+    "artist": "Creator_020",
+    "year": 2017,
+    "bpm": 150,
+    "key": "Dm",
+    "vibes": [
+      "jazzy",
+      "chill"
+    ],
+    "influences": [
+      16,
+      4,
+      81
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_014": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 129451,
+      "tx": "f369cb89fc627e66",
+      "time": "2025-08-10T21:39:36.944064Z"
+    }
+  },
+  {
+    "id": 76,
+    "title": "Track 076",
+    "artist": "Creator_015",
+    "year": 2013,
+    "bpm": 142,
+    "key": "B",
+    "vibes": [
+      "epic",
+      "dark"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_017": 50,
+      "Creator_009": 30,
+      "Creator_014": 20
+    },
+    "anchoring": {
+      "block": 163242,
+      "tx": "f74efabef12ea619",
+      "time": "2025-08-10T21:39:36.944077Z"
+    }
+  },
+  {
+    "id": 77,
+    "title": "Track 077",
+    "artist": "Creator_005",
+    "year": 2022,
+    "bpm": 84,
+    "key": "G",
+    "vibes": [
+      "chill",
+      "dark"
+    ],
+    "influences": [
+      32,
+      59,
+      71
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_011": 30,
+      "Creator_017": 20
+    },
+    "anchoring": {
+      "block": 135018,
+      "tx": "a88a7902cb4ef697",
+      "time": "2025-08-10T21:39:36.944092Z"
+    }
+  },
+  {
+    "id": 78,
+    "title": "Track 078",
+    "artist": "Creator_010",
+    "year": 2019,
+    "bpm": 167,
+    "key": "Gm",
+    "vibes": [
+      "uplifting",
+      "epic"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_016": 30,
+      "Creator_012": 20
+    },
+    "anchoring": {
+      "block": 143573,
+      "tx": "349c41201b62db85",
+      "time": "2025-08-10T21:39:36.944106Z"
+    }
+  },
+  {
+    "id": 79,
+    "title": "Track 079",
+    "artist": "Creator_008",
+    "year": 2022,
+    "bpm": 89,
+    "key": "Bm",
+    "vibes": [
+      "chill",
+      "dark"
+    ],
+    "influences": [
+      59,
+      42,
+      25
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_016": 50,
+      "Creator_013": 20
+    },
+    "anchoring": {
+      "block": 186991,
+      "tx": "98a3ab7c340e8a03",
+      "time": "2025-08-10T21:39:36.944120Z"
+    }
+  },
+  {
+    "id": 80,
+    "title": "Track 080",
+    "artist": "Creator_002",
+    "year": 2014,
+    "bpm": 124,
+    "key": "Gm",
+    "vibes": [
+      "chill",
+      "epic"
+    ],
+    "influences": [
+      64
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_004": 50,
+      "Creator_017": 30,
+      "Creator_015": 20
+    },
+    "anchoring": {
+      "block": 102011,
+      "tx": "48449a14a4ff7d79",
+      "time": "2025-08-10T21:39:36.944133Z"
+    }
+  },
+  {
+    "id": 81,
+    "title": "Track 081",
+    "artist": "Creator_005",
+    "year": 2012,
+    "bpm": 120,
+    "key": "Bm",
+    "vibes": [
+      "dark",
+      "jazzy"
+    ],
+    "influences": [
+      53
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_013": 50,
+      "Creator_003": 30,
+      "Creator_011": 20
+    },
+    "anchoring": {
+      "block": 188389,
+      "tx": "5316ca1c5ddca8e6",
+      "time": "2025-08-10T21:39:36.944146Z"
+    }
+  },
+  {
+    "id": 82,
+    "title": "Track 082",
+    "artist": "Creator_016",
+    "year": 2011,
+    "bpm": 139,
+    "key": "C",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [
+      41,
+      81,
+      92
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_008": 50,
+      "Creator_003": 30,
+      "Creator_014": 20
+    },
+    "anchoring": {
+      "block": 112903,
+      "tx": "a46e37632fa6ca51",
+      "time": "2025-08-10T21:39:36.944160Z"
+    }
+  },
+  {
+    "id": 83,
+    "title": "Track 083",
+    "artist": "Creator_015",
+    "year": 2015,
+    "bpm": 148,
+    "key": "E",
+    "vibes": [
+      "chill",
+      "dark"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_002": 50,
+      "Creator_010": 30,
+      "Creator_012": 20
+    },
+    "anchoring": {
+      "block": 149131,
+      "tx": "bbb965ab0c80d653",
+      "time": "2025-08-10T21:39:36.944175Z"
+    }
+  },
+  {
+    "id": 84,
+    "title": "Track 084",
+    "artist": "Creator_014",
+    "year": 2015,
+    "bpm": 81,
+    "key": "D",
+    "vibes": [
+      "jazzy",
+      "epic"
+    ],
+    "influences": [
+      19,
+      32,
+      68
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_020": 50,
+      "Creator_008": 30,
+      "Creator_016": 20
+    },
+    "anchoring": {
+      "block": 176435,
+      "tx": "44c8031cb036a735",
+      "time": "2025-08-10T21:39:36.944188Z"
+    }
+  },
+  {
+    "id": 85,
+    "title": "Track 085",
+    "artist": "Creator_015",
+    "year": 2018,
+    "bpm": 118,
+    "key": "E",
+    "vibes": [
+      "epic",
+      "dark"
+    ],
+    "influences": [
+      30
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_006": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 157898,
+      "tx": "b4944c6ff08dc6f4",
+      "time": "2025-08-10T21:39:36.944201Z"
+    }
+  },
+  {
+    "id": 86,
+    "title": "Track 086",
+    "artist": "Creator_014",
+    "year": 2018,
+    "bpm": 118,
+    "key": "Bm",
+    "vibes": [
+      "uplifting",
+      "epic"
+    ],
+    "influences": [
+      76,
+      39
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_016": 50,
+      "Creator_004": 30,
+      "Creator_008": 20
+    },
+    "anchoring": {
+      "block": 149986,
+      "tx": "434c9b5ae514646b",
+      "time": "2025-08-10T21:39:36.944214Z"
+    }
+  },
+  {
+    "id": 87,
+    "title": "Track 087",
+    "artist": "Creator_010",
+    "year": 2010,
+    "bpm": 166,
+    "key": "Am",
+    "vibes": [
+      "dark",
+      "chill"
+    ],
+    "influences": [
+      74,
+      38
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_019": 50,
+      "Creator_002": 30,
+      "Creator_020": 20
+    },
+    "anchoring": {
+      "block": 197671,
+      "tx": "bdd2d3af3a5a1213",
+      "time": "2025-08-10T21:39:36.944228Z"
+    }
+  },
+  {
+    "id": 88,
+    "title": "Track 088",
+    "artist": "Creator_020",
+    "year": 2021,
+    "bpm": 88,
+    "key": "A",
+    "vibes": [
+      "jazzy",
+      "dark"
+    ],
+    "influences": [
+      37,
+      100,
+      30
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_005": 50,
+      "Creator_004": 30,
+      "Creator_002": 20
+    },
+    "anchoring": {
+      "block": 140492,
+      "tx": "8b940be7fb78aaa6",
+      "time": "2025-08-10T21:39:36.944245Z"
+    }
+  },
+  {
+    "id": 89,
+    "title": "Track 089",
+    "artist": "Creator_005",
+    "year": 2012,
+    "bpm": 176,
+    "key": "Em",
+    "vibes": [
+      "ambient",
+      "epic"
+    ],
+    "influences": [
+      5,
+      75,
+      47
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_006": 50,
+      "Creator_007": 30,
+      "Creator_005": 20
+    },
+    "anchoring": {
+      "block": 170701,
+      "tx": "cd70bea023f752a0",
+      "time": "2025-08-10T21:39:36.944259Z"
+    }
+  },
+  {
+    "id": 90,
+    "title": "Track 090",
+    "artist": "Creator_009",
+    "year": 2015,
+    "bpm": 92,
+    "key": "Bm",
+    "vibes": [
+      "dark",
+      "ambient"
+    ],
+    "influences": [
+      68,
+      65
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_004": 50,
+      "Creator_015": 30,
+      "Creator_003": 20
+    },
+    "anchoring": {
+      "block": 118449,
+      "tx": "69f59c273b6e669a",
+      "time": "2025-08-10T21:39:36.944273Z"
+    }
+  },
+  {
+    "id": 91,
+    "title": "Track 091",
+    "artist": "Creator_013",
+    "year": 2021,
+    "bpm": 71,
+    "key": "Bm",
+    "vibes": [
+      "chill",
+      "dark"
+    ],
+    "influences": [
+      87
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_004": 30,
+      "Creator_015": 20
+    },
+    "anchoring": {
+      "block": 148311,
+      "tx": "1da51b8d8ff98f6a",
+      "time": "2025-08-10T21:39:36.944286Z"
+    }
+  },
+  {
+    "id": 92,
+    "title": "Track 092",
+    "artist": "Creator_012",
+    "year": 2013,
+    "bpm": 146,
+    "key": "Dm",
+    "vibes": [
+      "chill",
+      "jazzy"
+    ],
+    "influences": [
+      75,
+      49
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_018": 50,
+      "Creator_011": 30,
+      "Creator_020": 20
+    },
+    "anchoring": {
+      "block": 129015,
+      "tx": "8241649609f88ccd",
+      "time": "2025-08-10T21:39:36.944300Z"
+    }
+  },
+  {
+    "id": 93,
+    "title": "Track 093",
+    "artist": "Creator_015",
+    "year": 2019,
+    "bpm": 143,
+    "key": "F",
+    "vibes": [
+      "uplifting",
+      "chill"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_002": 50,
+      "Creator_010": 30,
+      "Creator_016": 20
+    },
+    "anchoring": {
+      "block": 115220,
+      "tx": "6e4001871c0cf27c",
+      "time": "2025-08-10T21:39:36.944314Z"
+    }
+  },
+  {
+    "id": 94,
+    "title": "Track 094",
+    "artist": "Creator_008",
+    "year": 2014,
+    "bpm": 109,
+    "key": "Fm",
+    "vibes": [
+      "ambient",
+      "jazzy"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_014": 50,
+      "Creator_019": 30,
+      "Creator_005": 20
+    },
+    "anchoring": {
+      "block": 154379,
+      "tx": "e3d6c4d4599e0088",
+      "time": "2025-08-10T21:39:36.944328Z"
+    }
+  },
+  {
+    "id": 95,
+    "title": "Track 095",
+    "artist": "Creator_016",
+    "year": 2023,
+    "bpm": 180,
+    "key": "E",
+    "vibes": [
+      "ambient",
+      "dark"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_007": 50,
+      "Creator_015": 20
+    },
+    "anchoring": {
+      "block": 130947,
+      "tx": "ad48ff99415b2f00",
+      "time": "2025-08-10T21:39:36.944341Z"
+    }
+  },
+  {
+    "id": 96,
+    "title": "Track 096",
+    "artist": "Creator_012",
+    "year": 2021,
+    "bpm": 67,
+    "key": "Fm",
+    "vibes": [
+      "uplifting",
+      "chill"
+    ],
+    "influences": [
+      13,
+      88
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_015": 50,
+      "Creator_003": 30,
+      "Creator_007": 20
+    },
+    "anchoring": {
+      "block": 184109,
+      "tx": "7b1a278f5abe8e9d",
+      "time": "2025-08-10T21:39:36.944355Z"
+    }
+  },
+  {
+    "id": 97,
+    "title": "Track 097",
+    "artist": "Creator_002",
+    "year": 2020,
+    "bpm": 91,
+    "key": "D",
+    "vibes": [
+      "chill",
+      "jazzy"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_007": 20,
+      "Creator_019": 30
+    },
+    "anchoring": {
+      "block": 130539,
+      "tx": "d6d824abba4afde8",
+      "time": "2025-08-10T21:39:36.944368Z"
+    }
+  },
+  {
+    "id": 98,
+    "title": "Track 098",
+    "artist": "Creator_020",
+    "year": 2010,
+    "bpm": 95,
+    "key": "B",
+    "vibes": [
+      "uplifting",
+      "jazzy"
+    ],
+    "influences": [
+      100,
+      19
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_009": 50,
+      "Creator_006": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 186646,
+      "tx": "29db0c6782dbd500",
+      "time": "2025-08-10T21:39:36.944381Z"
+    }
+  },
+  {
+    "id": 99,
+    "title": "Track 099",
+    "artist": "Creator_005",
+    "year": 2010,
+    "bpm": 105,
+    "key": "B",
+    "vibes": [
+      "jazzy",
+      "dark"
+    ],
+    "influences": [],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_001": 50,
+      "Creator_006": 30,
+      "Creator_009": 20
+    },
+    "anchoring": {
+      "block": 106868,
+      "tx": "8c1f1046219ddd21",
+      "time": "2025-08-10T21:39:36.944393Z"
+    }
+  },
+  {
+    "id": 100,
+    "title": "Track 100",
+    "artist": "Creator_014",
+    "year": 2013,
+    "bpm": 155,
+    "key": "Cm",
+    "vibes": [
+      "epic",
+      "dark"
+    ],
+    "influences": [
+      95
+    ],
+    "ai_description": "Short demo blurb.",
+    "rights_split": {
+      "Creator_017": 50,
+      "Creator_019": 30,
+      "Creator_004": 20
+    },
+    "anchoring": {
+      "block": 159245,
+      "tx": "ad57366865126e55",
+      "time": "2025-08-10T21:39:36.944408Z"
+    }
+  }
+]
