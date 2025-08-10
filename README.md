@@ -1,3 +1,5 @@
+> **MuzIQ Public Demo Edition** — Licensed under **AGPL-3.0**. Commercial use requires explicit written permission from the MuzIQ team. This repo is for demos and community contributions; core production code remains private.
+
 # MuzIQ (Private Repo)
 
 🚧 **This is a private early-stage prototype** for the MuzIQ platform.  
@@ -20,3 +22,6 @@ MIT License – see `LICENSE` file.
 This repository is **private and confidential**. Unauthorized distribution or duplication is not allowed.
 ## Project To-Do List
 [View the live To-Do list on GitHub](https://github.com/muziq-agent/music-evolution-app/blob/main/TODO.md)
+
+## Operations Manual
+See [docs/OPERATIONS.md](docs/OPERATIONS.md) for environments, branching, and deploys.
