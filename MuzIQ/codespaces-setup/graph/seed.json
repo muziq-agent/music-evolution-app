@@ -1,9 +1,0 @@
-{
-  "nodes": [
-    { "id": "root", "label": "Music", "type": "concept" },
-    { "id": "ai_gen", "label": "AI-Generated", "type": "mode" }
-  ],
-  "edges": [
-    { "source": "root", "target": "ai_gen", "relation": "produces" }
-  ]
-}
