@@ -18,3 +18,5 @@ MIT License – see `LICENSE` file.
 
 ## Important
 This repository is **private and confidential**. Unauthorized distribution or duplication is not allowed.
+## Project To-Do List
+[View the live To-Do list on GitHub](https://github.com/muziq-agent/music-evolution-app/blob/main/TODO.md)
