@@ -16,7 +16,7 @@ It uses graph-based knowledge representation and interactive UI to educate users
 - Vision and roadmap are private for now
 
 ## License
-MIT License – see `LICENSE` file.
+AGPL-3.0 – see `LICENSE` file.
 
 ## Important
 This repository is **private and confidential**. Unauthorized distribution or duplication is not allowed.
