@@ -1,0 +1,20 @@
+name: Staging Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  staging-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare env
+        run: |
+          echo "MUZIQ_ENV=staging" >> $GITHUB_ENV
+      - name: Placeholder staging deploy step
+        run: |
+          echo "🔧 Staging deploy would run here (Vercel + Fly/Railway)."
+          echo "Add secrets in GitHub → Settings → Secrets and variables → Actions."
+          echo "VERCEL_TOKEN, VERCEL_ORG_ID, VERCEL_PROJECT_ID, FLY_API_TOKEN or RAILWAY_TOKEN"

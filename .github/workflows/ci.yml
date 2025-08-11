@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [ "main", "prod" ]
+
+jobs:
+  lint-and-health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Basic repo health (placeholder)
+        run: |
+          echo "✅ Repo checked out."
+          ls -la
+          test -f README.md && echo "README present."
+          test -f TODO.md && echo "TODO present."
+          echo "✅ CI placeholder done."

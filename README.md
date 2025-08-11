@@ -42,3 +42,10 @@ This will:
 2. Push it to GitHub.
 3. Create/update the GitHub Release with notes.
 
+
+## Developer Safe Start Script
+Use this helper to start API + frontend safely (no zombie processes):
+
+- `./scripts/dev_safe.sh restart`  — stop old, start fresh
+- `./scripts/dev_safe.sh status`   — show running state
+- `./scripts/dev_safe.sh logs`     — tail API & web logs

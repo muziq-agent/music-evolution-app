@@ -1,0 +1,24 @@
+name: Production Pipeline
+
+on:
+  push:
+    branches: [ "prod" ]
+  workflow_dispatch:
+
+jobs:
+  prod-checks-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ensure prod only from main
+        run: |
+          echo "Verifying last merge source..."
+          echo "(Optional) Enforce policy via commit message or tag."
+          echo "Proceeding with placeholder steps."
+      - name: Prepare env
+        run: |
+          echo "MUZIQ_ENV=prod" >> $GITHUB_ENV
+      - name: Placeholder prod deploy step
+        run: |
+          echo "�� Production deploy would run here (Vercel + Fly/Railway)."
+          echo "Ensure prod secrets are set and protected."
